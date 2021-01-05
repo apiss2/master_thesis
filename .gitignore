@@ -1,3 +1,9 @@
+!*.tex
+!*.png
+!*.jpg
+!*.pdf
+!*.bib
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
